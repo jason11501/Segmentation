@@ -2,6 +2,7 @@
 
 ## Cách tiếp cận thứ nhất: region based
 
+https://youtu.be/mPEQcTEgLL4
 ## thứ hai: edge detection
 https://youtu.be/PePBcwRQ3ww
 ..
