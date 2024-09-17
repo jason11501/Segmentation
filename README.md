@@ -1,4 +1,4 @@
-# Segmentation (preprocessing - tiền đề cho phân lớp vật thể trong video)
+# Segmentation (preprocessing - tiền đề cho object detection trong video)
 
 ## Cách tiếp cận thứ nhất: region-based
 https://youtu.be/Wn9EjbAU5iA
